@@ -10,7 +10,7 @@
 
 # Explicitly exclude folders
 Data/
-Results/
+#Results/
 .venv/
 venv/
 .vscode/
